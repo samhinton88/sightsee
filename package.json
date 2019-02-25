@@ -1,0 +1,11 @@
+{
+  "name": "sightsee",
+  "version": "1.0.0",
+  "description": "A tour around your app driven by redux dispatch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
